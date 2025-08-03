@@ -1,0 +1,14 @@
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\bin\Debug\net9.0\TicketCalculator.exe
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\bin\Debug\net9.0\TicketCalculator.deps.json
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\bin\Debug\net9.0\TicketCalculator.runtimeconfig.json
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\bin\Debug\net9.0\TicketCalculator.dll
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\bin\Debug\net9.0\TicketCalculator.pdb
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\TicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\TicketCalculator.AssemblyInfoInputs.cache
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\TicketCalculator.AssemblyInfo.cs
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\TicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\TicketCalculator.dll
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\refint\TicketCalculator.dll
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\TicketCalculator.pdb
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\TicketCalculator.genruntimeconfig.cache
+C:\Users\Kofi Annang\Documents\GitHub\Assigment1\TicketCalculator\TicketCalculator\obj\Debug\net9.0\ref\TicketCalculator.dll
