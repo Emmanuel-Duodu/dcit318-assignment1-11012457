@@ -1,0 +1,14 @@
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfoInputs.cache
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfo.cs
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.csproj.CoreCompileInputs.cache
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.exe
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.deps.json
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.runtimeconfig.json
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.dll
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.pdb
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.dll
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\refint\GradeCalculator.dll
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.pdb
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.genruntimeconfig.cache
+c:\Users\Kofi Annang\Documents\GitHub\Assigment1\GradeCalculator\GradeCalculator\obj\Debug\net9.0\ref\GradeCalculator.dll
